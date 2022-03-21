@@ -4,8 +4,6 @@ The official pyTorch implementation of the method of Uncertainty-aware Mean Teac
 
 
 
-Follow the instructions for installation and implementation of the method for each base object detection network in the respective folders [SECOND-iou](/SECOND-iou/) and [PointRCNN](/PointRCNN/)
-
 # Dataset preperation
 
 1. Download the relevant datasets: [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) , [Waymo](https://waymo.com/intl/en_us/dataset-download-terms/) , [nuScenes](https://www.nuscenes.org/download)
