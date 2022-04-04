@@ -75,21 +75,18 @@ UncertaintyAwareMeanTeacher_SFUDA
 ## Pre-trained models
 
 
-We implement the proposed method for the object detector [SECOND-iou](/secondiou/) for several domain shift scenarios. You can find the folder of pretrained models [here](). Find specific model downloads and their corresponding config files below.
+We implement the proposed method for the object detector [SECOND-iou](/secondiou/) for several domain shift scenarios. You can find the folder of pretrained models [here](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/dhegde1_jh_edu/EpsIlDbB43VOnznWmM_K3BgB67CjI3ZNuG36FHCjkK6z2w?e=IB1dKj). Find specific model downloads and their corresponding config files below.
 
 
 | SECOND-iou |
 -------------------------------------------------
 | Domain shift | Model file  | Configuration file |
 | ----------- | ----------- | -------------------|
-| Waymo  -> KITTI| [download]() | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
-| Waymo  -> KITTI-rain| [download]() | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
-| Waymo  -> KITTI-snow| [download]() | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
-| Waymo  -> KITTI-fog| [download]() | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
-|  nuScenes -> KITTI| [download]() | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
+| Waymo  -> KITTI| [download](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/dhegde1_jh_edu/EX91o3reI2tCig1y6nmC_x0Bu50oA7_UPfh8yiNq2O-6mw?e=nGhgOJ) | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
+| Waymo  -> KITTI-rain| [download](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/dhegde1_jh_edu/EdbV2n4k16xPkjfWF06Icy0B2_fxx19mVENwydRKhxSemQ?e=CtjaC0) | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
+|  nuScenes -> KITTI| [download](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/dhegde1_jh_edu/EbCNUDkBtKFDhtCh8Fz3yK4BkppnhspfF-UJXusvYGD4fQ?e=mXdMVa) | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
 |  nuScenes -> KITTI-rain| [download]() | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
-|  nuScenes -> KITTI-snow| [download]()  | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
-|  nuScenes -> KITTI-fog| [download]()   | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
+
 
 
 Go to [secondiou](secondiou) for environment setup and implementation details.
