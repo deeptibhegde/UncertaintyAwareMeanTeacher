@@ -92,7 +92,7 @@ We implement the proposed method for the object detector [SECOND-iou](/secondiou
 |  nuScenes -> KITTI-fog| [download]()   | [link](SECOND-iou/tools/cfgs/kitti_models/secondiou_oracle_ros.yaml) |
 
 
-Go to [IMPLEMENT_SECONDIOU.md]() for environment setup and implementation details.
+Go to [secondiou](secondiou) for environment setup and implementation details.
 
 
 
