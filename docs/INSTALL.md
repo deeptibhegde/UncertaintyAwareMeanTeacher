@@ -9,8 +9,6 @@ All the codes are tested in the following environment:
 * [`spconv v1.0 (commit 8da6f96)`](https://github.com/traveller59/spconv/tree/8da6f967fb9a054d8870c3515b1b44eca2103634) or [`spconv v1.2`](https://github.com/traveller59/spconv) or [`spconv v2.x`](https://github.com/traveller59/spconv)
 
 
-### Install `pcdet v0.5`
-NOTE: Please re-install `pcdet v0.5` by running `python setup.py develop` even if you have already installed previous version.
 
 
 
