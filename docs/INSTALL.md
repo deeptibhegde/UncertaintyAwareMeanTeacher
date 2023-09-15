@@ -14,13 +14,12 @@ All the codes are tested in the following environment:
 
 a. Install the dependent libraries as follows:
 
-[comment]: <> (* Install the dependent python libraries: )
 
-[comment]: <> (```)
+```
 
-[comment]: <> (pip install -r requirements.txt )
+pip install -r requirements.txt 
 
-[comment]: <> (```)
+```
 
 * Install the SparseConv library, we use the implementation from [`[spconv]`](https://github.com/traveller59/spconv). 
     * If you use PyTorch 1.1, then make sure you install the `spconv v1.0` with ([commit 8da6f96](https://github.com/traveller59/spconv/tree/8da6f967fb9a054d8870c3515b1b44eca2103634)) instead of the latest one.
