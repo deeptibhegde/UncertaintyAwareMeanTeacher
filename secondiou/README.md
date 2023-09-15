@@ -1,5 +1,7 @@
 # Implementation of Uncertainty-aware Mean Teacher for SFUDA of [SECOND-iou](https://github.com/open-mmlab/OpenPCDet/blob/master/tools/cfgs/kitti_models/second_iou.yaml) 
 
+## This section is not up-to-date please see [here](https://github.com/deeptibhegde/UncertaintyAwareMeanTeacher/tree/main/unc_mt) for setup and training details (to be updated).
+
 Format of configuration files from [ST3D](https://github.com/CVMI-Lab/ST3D/tree/master/tools/cfgs), based on the codebase from [OpenPCDet](https://github.com/open-mmlab/OpenPCDet/blob/master/docs/GETTING_STARTED.md)
 
 ## Setup
