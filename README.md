@@ -5,6 +5,11 @@ The official pyTorch implementation of the method of Uncertainty-aware Mean Teac
 ![image](/imgs/flow_final_out.drawio.png)
 
 
+## Installation
+
+Please refer to [INSTALL.md](https://github.com/deeptibhegde/UncertaintyAwareMeanTeacher/blob/main/docs/INSTALL.md) for setup.
+
+
 ## Dataset preperation
 
 1. Download the relevant datasets: [KITTI](http://www.cvlibs.net/datasets/kitti/eval_object.php?obj_benchmark=3d) , [Waymo](https://waymo.com/intl/en_us/dataset-download-terms/) , [nuScenes](https://www.nuscenes.org/download)
